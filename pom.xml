@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.166.84.32:8081/repository/cash-uat//</url>
+	      <url>http://54.166.84.32:8081/repository/cash-uatsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
